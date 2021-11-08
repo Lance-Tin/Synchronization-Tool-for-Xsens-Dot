@@ -43,5 +43,5 @@ Problems
 
 * it may synchronize less than four xsens dots, because it run in windows system.
 
-* How to use python to collect several dots data at the same times is a big problems for me, **Welcome to communicate with me**
+* How to use python to collect several dots data at the same times is a big problems for me, **Welcome to join us**
 
