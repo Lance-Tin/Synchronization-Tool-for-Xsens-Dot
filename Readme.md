@@ -34,7 +34,7 @@ How to use
 TODO
 --
 
-Thanks for [Adam Kewley](https://github.com/adamkewley) sharing the [xdc (XSens DOT Connector)](https://github.com/adamkewley/xsens-dot-connector) respositories, I may write some tools to get more than one dot data and save them.
+Thanks for [Adam Kewley](https://github.com/adamkewley) sharing the [xdc (XSens DOT Connector)](https://github.com/adamkewley/xsens-dot-connector) respositories, I may write some tools to get more than one dot datas and save them.
 
 
 
