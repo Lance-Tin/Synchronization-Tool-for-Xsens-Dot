@@ -4,7 +4,7 @@ Synchronization Tool for Xsens Dot
 Introduction
 --
 
-It's a simple tool to synchronize XSENS dot just use python. it developed based on [Xsens DOT BLE protocol](./Xsens DOT BLE Services Specifications.pdf). if you want to used xsens dot to collect datas, the first step is synchronizing the dots, This code enables xsens dots to be synchronized to a root dot which is scan the first time.
+It's a simple tool to synchronize XSENS dot just use python. it developed based on [Xsens DOT BLE protocol](Xsens DOT BLE Services Specifications.pdf). if you want to used xsens dot to collect datas, the first step is synchronizing the dots, This code enables xsens dots to be synchronized to a root dot which is scan the first time.
 
 
 
